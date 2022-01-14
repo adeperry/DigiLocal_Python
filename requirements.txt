@@ -4,4 +4,4 @@ idna==2.9
 Pillow==9.0.0
 pygame==1.9.6
 requests==2.23.0
-urllib3==1.25.9
+urllib3==1.26.5
